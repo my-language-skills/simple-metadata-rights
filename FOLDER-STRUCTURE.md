@@ -1,10 +1,10 @@
 # Folder structure
 ```
-plugins/simple-metadata-rights                    # → Plugin root                                                               
+plugins/simple-metadata-rights                          # → Plugin root                                                               
 ├── .gitattributes                                                                 
 ├── .gitignore                                     
-├── FOLDER-STRUCTURE.md                                    
-├── index.php
+├── FOLDER-STRUCTURE.md                                 # → Folder structure file md        
+├── index.php                                           # → Empty index file php
 ├── LICENSE.md                                          # → License for GitHub
 ├── license.txt                                         # → License for WP
 ├── README.md                                           # → Readme file for GitHub
